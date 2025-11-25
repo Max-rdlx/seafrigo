@@ -15,17 +15,6 @@ Pequeño sitio estático de ejemplo para una empresa exportadora especializada e
 ```powershell
 ii .\index.html
 ```
-
-## Cambios recomendados / cómo personalizar
-
-- Reemplaza las imágenes demo (`blue.jpg`, `fresa.jpg`, `mango.jpg`, `aguacate.jpg`, etc.) en la carpeta del proyecto por fotos reales.
-- Actualiza los correos y teléfonos en la sección de contacto (`index.html`) si necesitas otros destinatarios.
-- Para enviar el formulario a un servicio real, reemplaza la acción del `mailto:` por una integración con un backend o servicio de formularios (Formspree, Netlify Forms, etc.).
-
-## Agregar más contactos
-
-Edita la lista `<select id="recipient">` en el formulario para añadir o cambiar destinatarios.
-
 ## Notas técnicas
 
 - El menú es responsive y se abre con el botón de hamburguesa en pantallas pequeñas.
@@ -37,3 +26,4 @@ Si quieres, puedo:
 - Integrar iconos SVG locales y optimizar las imágenes.
 
 Dime qué prefieres que haga a continuación.
+
